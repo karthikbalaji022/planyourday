@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/planyourday/static/css/main.be720528.css",
+    "main.js": "/planyourday/static/js/main.41483060.js",
+    "index.html": "/planyourday/index.html",
+    "main.be720528.css.map": "/planyourday/static/css/main.be720528.css.map",
+    "main.41483060.js.map": "/planyourday/static/js/main.41483060.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be720528.css",
+    "static/js/main.41483060.js"
+  ]
+}
